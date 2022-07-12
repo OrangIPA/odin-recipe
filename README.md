@@ -1,2 +1,2 @@
 # Odin Recipe
-This is a html exercise about some food recipe
+This is a html exercise from the odin project about some food recipe
